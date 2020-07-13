@@ -1,0 +1,14 @@
+name: course2020
+channels:
+   - conda-forge
+dependencies:
+   - python=3.8
+   - ipython
+   - jupyter
+   - numpy
+   - matplotlib
+   - pandas
+   - cartopy=0.18
+   - xarray
+   - seaborn
+   - netcdf4
