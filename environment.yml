@@ -1,4 +1,4 @@
-name: course2020
+name: sense2020
 channels:
    - conda-forge
 dependencies:
