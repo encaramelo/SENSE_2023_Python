@@ -1,4 +1,4 @@
-Course content for SENSE CDT 2020, University of Edinburgh, adapted from Aries and Cefas Python Course 2020, organised through the Collaborative Centre for Sustainable use of the Seas 
+Course content for SENSE CDT 2023, University of Edinburgh, adapted from Aries and Cefas Python Course 2020, organised through the Collaborative Centre for Sustainable use of the Seas 
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)]()
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2020-materials)
