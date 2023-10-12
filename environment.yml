@@ -1,4 +1,4 @@
-name: sense2020
+name: sense2023
 channels:
    - conda-forge
 dependencies:
